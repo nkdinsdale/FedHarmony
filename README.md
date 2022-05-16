@@ -6,6 +6,7 @@ This is a working release of the code for FedHarmony Any issues please contact: 
 Software Versions 
 -----------------
 Python 3.6.8
+
 PyTorch 1.10.1
 
 ![](https://github.com/FedHarmony/figures/mygif.gif)
