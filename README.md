@@ -24,7 +24,9 @@ The training procedure is formed of three distinct phases:
 - Stage 3: get_gaussians --> fit gaussian to data for each site separately
 
 If you use code from this repository please cite the appropriate paper:
+
 FedHarmony: COMING SOON
+
 Unlearning Scanner Bias for MRI Harmonisation:
 ```@article{DINSDALE2021117689,
 title = {Deep learning-based unlearning of dataset bias for MRI harmonisation and confound removal},
