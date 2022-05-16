@@ -16,8 +16,8 @@ Code supplied was used for the age prediction task but the framework is general.
 - Label Predictor
 - Domain Predictor
 
-Scripts
-_______
+## Scripts
+
 The training procedure is formed of three distinct phases:
 - Stage 1: harmonisation_main --> train the model for each site separately
 - Stage 2: fed_equal --> aggregate weights according to FedEqual regime
