@@ -9,4 +9,6 @@ Python 3.6.8
 
 PyTorch 1.10.1
 
+![network architecture](/figures/architecture.png)
+
 ![pca alignment](https://github.com/nkdinsdale/FedHarmony/blob/main/figures/mygif.gif?style=centerme)
