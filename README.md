@@ -12,6 +12,8 @@ PyTorch 1.10.1
 ![network architecture](/figures/architecture.png)
 
 Code supplied was used for the age prediction task but the framework is general. The architecture used needs to have three sections as shown in the figure above:
-
+- Feature extractor
+- Label Predictor
+- Domain Predictor
 
 ![pca alignment](https://github.com/nkdinsdale/FedHarmony/blob/main/figures/mygif.gif?style=centerme)
