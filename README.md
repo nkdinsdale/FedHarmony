@@ -16,4 +16,11 @@ Code supplied was used for the age prediction task but the framework is general.
 - Label Predictor
 - Domain Predictor
 
+Scripts
+_______
+The training procedure is formed of three distinct phases:
+- Stage 1: harmonisation_main --> train the model for each site separately
+- Stage 2: fed_equal --> aggregate weights according to FedEqual regime
+- Stage 3: get_gaussians --> fit gaussian to data for each site separately
+
 ![pca alignment](https://github.com/nkdinsdale/FedHarmony/blob/main/figures/mygif.gif?style=centerme)
