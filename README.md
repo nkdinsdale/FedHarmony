@@ -9,4 +9,4 @@ Python 3.6.8
 
 PyTorch 1.10.1
 
-![Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
+![Alt Text](https://github.com/nkdinsdale/FedHarmony/blob/main/figures/mygif.gif)
