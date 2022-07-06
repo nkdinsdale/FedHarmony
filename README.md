@@ -25,7 +25,16 @@ The training procedure is formed of three distinct phases:
 
 If you use code from this repository please cite the appropriate paper:
 
-FedHarmony: COMING SOON
+FedHarmony: 
+```
+@article{FEDHARMONY,
+  doi = {10.48550/ARXIV.2205.15970},  
+  author = {Dinsdale, Nicola K and Jenkinson, Mark and Namburete, Ana IL},
+  title = {FedHarmony: Unlearning Scanner Bias with Distributed Data},
+  publisher = {arXiv},
+  year = {2022},
+}
+```
 
 Unlearning Scanner Bias for MRI Harmonisation:
 ```@article{DINSDALE2021117689,
